@@ -8,4 +8,5 @@ There should be a website where people can go and enter into the whitelist.<br>
 Hardhat, Solidity, NextJs<br>
 
 ## Info
-whitelistContract deployed to 0xBb5d63FbD9d7AE206da1688ed1908245b57D6D2A on Goerli
+whitelistContract deployed (address 0xBb5d63FbD9d7AE206da1688ed1908245b57D6D2A) to Goerli<br>
+NextJS frontend deployed to Vercel
