@@ -40,7 +40,7 @@ export default function Home() {
         abi,
         signer
       );
-      const tx = await whitelistContract.addAddressToWhitelist();
+      const tx = await whitelistContract.addAddresstoWhitelist();
       setLoading(true);
       await tx.wait();
       setLoading(false);
